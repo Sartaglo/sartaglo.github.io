@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"+1Jk":function(e,t,o){"use strict";o.r(t);var s=o("hosL"),b="home__uRcqa";t.default=()=>Object(s.h)("div",{class:b},Object(s.h)("h1",null,"Home"),Object(s.h)("object",{data:"https://drive.google.com/file/d/16lZTOsoIvX1NbtWL2LRwbfHydEs1ybrm/preview",height:480,width:640},Object(s.h)("embed",{src:"https://drive.google.com/file/d/16lZTOsoIvX1NbtWL2LRwbfHydEs1ybrm/preview"})))}}]);
-//# sourceMappingURL=route-home.chunk.27f74.esm.js.map
+//# sourceMappingURL=route-home.chunk.66708.esm.js.map
